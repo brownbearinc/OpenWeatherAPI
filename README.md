@@ -1,1 +1,3 @@
 # OpenWeatherAPI
+
+School project 
